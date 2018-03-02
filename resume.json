@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Sameer Mirza",
+    "label": "Programmer",
+    "picture": "",
+    "email": "sam@bytecodestudios.com",
+    "phone": "(805) 295-0263",
+    "summary": "",
+    "location": {
+      "address": "15423 Benfield Ave",
+      "postalCode": "CA 90650",
+      "city": "Norwalk",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "jitcoder",
+        "url": "https://github.com/jitcoder"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sameer-mirza",
+        "url": "https://www.linkedin.com/in/sameer-mirza-261058a9/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fox Networks Group",
+      "position": "Senior Technology Manager",
+      "website": "http://fox.com",
+      "startDate": "2016-09-13",
+      "summary": "Worked within the Digital Consumer Group on the API Team providing backend services for a variety of front-end clients",
+      "highlights": [
+        "Gather requirements from Product team and produce & architect technical solutions & implementation details for engineering",
+        "Mentor and onboarding for new API team members. (Tech Manager, Engineer, Engineer), which resulted in a quick ramp up of API team technical and tribal knowledge",
+        "Educator to internal API team and external Teams. Self organized a 10 week Pyton course for the content ops & network ops team to learn scripting to automate their teams tasks",
+        "Started Lunch & Learn sessions to help distribute siloed knowledge across teams",
+        "Identified a gap in internal tooling, commissioned and built DCG API Internal Tools Dashboard which contains tools such as Ticket Tracker to help Project Management team keep track of which Jira tickets have been deployed to particular API environments",
+        "Built a cluster of API Snapshot servers to offload traffic off of downgrading API server clusters to prevent cascading failures from occuring during record high traffic events",
+        "Worked closely with DFW team to architect solutions for web specific requirements (SEO, Promos etc) and actively prevented development from being blocked",
+        "Built FYI Image Previewer tool to help content ops QA images being ingested from FYI",
+        "Architected solutions with 3rd party vendor (Digital Smiths) to integrate their recommendations engine with DCG's Content System enabling content editors to create machine learning backed collections"
+      ]
+    },
+    {
+      "company": "Strategic Healthcare Programs (SHP)",
+      "position": "Software Engineer",
+      "website": "https://shpdata.com",
+      "startDate": "2014-12-01",
+      "endDate": "2016-08-01",
+      "highlights": [
+        "Provide training/support to peers for new web development technologies. (React & WebAPI)",
+        "Architected, Developed & maintained new web applications (full stack)",
+        "Maintained & Upgraded legacy software systems (full stack).",
+        "Develop & Maintain complex real-time data processing business logic in accordance to CMS (government agency) rules and specifications. (back-end & data layer)"
+      ]
+    },
+    {
+      "company": "Bytecode Studios",
+      "position": "Software Consultant",
+      "website": "https://bytecodestudios.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "highlights": [
+        "Architected solutions for various clients",
+        "Managed team of developers",
+        "Meet with stakeholders to understand requirements and develop software specifications.",
+        "Keeping developers up-to-date on new frameworks/platforms"
+      ]
+    },
+    {
+      "company": "US Fragrances Inc.",
+      "position": "Senior Software Engineer",
+      "startDate": "2006-11-01",
+      "endDate": "2013-12-01",
+      "highlights": [
+        "Architected, Developed and maintained Point of Sale System with centralized inventory tracking.",
+        "Managed team of developers."
+      ]
+    },
+    {
+      "company": "Palomar College",
+      "position": "IT Support Assistant",
+      "startDate": "2007-01-01",
+      "endDate": "2008-01-01",
+      "highlights": [
+        "Part-time IT Support Assistant.",
+        "Assisted with synchronizing images across multiple labs on campus.",
+        "Basic IT support."
+      ]
+    },
+    {
+      "company": "Hewlett-Packard Systems at Ebttikar Technology Co., Ltd",
+      "position": "Junior Software Engineer",
+      "startDate": "2005-09-01",
+      "endDate": "2006-09-01",
+      "highlights": [
+        "Worked with senior developers on inventory & asset tracking system"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Purpose Prep - The Digital Takeover",
+      "publisher": "Purpose Prep",
+      "releaseDate": "2018-02-01",
+      "website": "https://vimeo.com/252279650/d24d90818f",
+      "summary": "Internet Of Things – What Is Big"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SASS",
+        "Javascript",
+        "Typescript",
+        "React",
+        "React-Native",
+        "Angular",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "Master",
+      "keywords": [
+        "NodeJS (Javascript & Typescript)",
+        "ASP.NET (C#/VB.NET)",
+        "ASP.NET Core",
+        ".NET Core"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "intermediate",
+      "keywords": [
+        "Java",
+        "C/C++",
+        "PHP",
+        "Pascal (Inno)"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "advanced",
+      "keywords": [
+        "SQL Server",
+        "MySQL",
+        "Postgres",
+        "MongoDB",
+        "ElasticSearch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Benjamin Moscrop",
+      "reference": "Sameer is an incredibly gifted programmer and software engineer. I've seen him write code as fast as a typist. We worked on some entrepreneurial projects together and I was always blown away at his creative abilities. When encountered with a problem he simply begins flipping his pen around while pacing back and forth and within a few moments he's back at the desk implementing the solution that he worked out in his head. He has vast experience in training and teaching people to program."
+    },
+    {
+      "name": "Rossco Giordano",
+      "reference": "Sam is one of those rare people that you'll remember for the rest of your life. Never have I ever seen a person take an entire language or platform they've never even developed in, and within a week (sometimes just a few days), create a full-scale, professional, bug-free application with coding standards for [enter language here] so properly executed. The man himself is AN ENTIRE walking, talking, development team to himself. To say that Sam is something close to a genius, would be an understatement. But not only is he capable of creating full-scale, fully-functioning, professional level applications himself... as a team-mate, he will positively challenge you to become engaged, and to challenge yourself, as well. I haven't worked for/with Sam in years, but I always look back and think about that guy and how amazing he was: as a team mate, a software developer, a teacher, and a friend."
+    }
+  ]
+}

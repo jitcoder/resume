@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "del resume.pdf && hackmyresume build resume.json TO resume.pdf -t node_modules/jsonresume-theme-flat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-flat": "^0.3.7"
+  }
+}
