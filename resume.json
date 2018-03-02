@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Sameer Mirza",
-    "label": "Programmer",
+    "label": "Senior Technology Manager",
     "picture": "",
     "email": "sam@bytecodestudios.com",
     "phone": "(805) 295-0263",
-    "summary": "",
     "location": {
       "address": "15423 Benfield Ave",
       "postalCode": "CA 90650",
@@ -13,6 +12,7 @@
       "countryCode": "US",
       "region": "California"
     },
+    "summary": "Tech enthusiast, father, husband and avid biker",
     "profiles": [
       {
         "network": "Github",
@@ -34,9 +34,9 @@
       "startDate": "2016-09-13",
       "summary": "Worked within the Digital Consumer Group on the API Team providing backend services for a variety of front-end clients",
       "highlights": [
-        "Gather requirements from Product team and produce & architect technical solutions & implementation details for engineering",
-        "Mentor and onboarding for new API team members. (Tech Manager, Engineer, Engineer), which resulted in a quick ramp up of API team technical and tribal knowledge",
-        "Educator to internal API team and external Teams. Self organized a 10 week Pyton course for the content ops & network ops team to learn scripting to automate their teams tasks",
+        "Gather requirements from Product team to produce technical solutions as well as implementation details for engineering",
+        "Mentor and onboarding for new API team members. (Tech Manager, Engineers), which resulted in a quick ramp up of API team technical and tribal knowledge",
+        "Educator to internal API team and external teams. Self organized a 10 week Python course for the content ops & network ops team to learn scripting to automate their team's tasks",
         "Started Lunch & Learn sessions to help distribute siloed knowledge across teams",
         "Identified a gap in internal tooling, commissioned and built DCG API Internal Tools Dashboard which contains tools such as Ticket Tracker to help Project Management team keep track of which Jira tickets have been deployed to particular API environments",
         "Built a cluster of API Snapshot servers to offload traffic off of downgrading API server clusters to prevent cascading failures from occuring during record high traffic events",
@@ -108,12 +108,21 @@
       "publisher": "Purpose Prep",
       "releaseDate": "2018-02-01",
       "website": "https://vimeo.com/252279650/d24d90818f",
-      "summary": "Internet Of Things – What Is Big"
+      "summary": "Internet Of Things – What Is Big Data"
     }
   ],
   "skills": [
     {
-      "name": "Front-end",
+      "name": "Management",
+      "level": "Master",
+      "keywords": [
+        "Training",
+        "Mentoring",
+        "Improving moral in high stress situations"
+      ]
+    },
+    {
+      "name": "Languages",
       "level": "Master",
       "keywords": [
         "HTML",
@@ -121,42 +130,37 @@
         "SASS",
         "Javascript",
         "Typescript",
-        "React",
-        "React-Native",
-        "Angular",
-        "JQuery"
-      ]
-    },
-    {
-      "name": "Back-end",
-      "level": "Master",
-      "keywords": [
-        "NodeJS (Javascript & Typescript)",
-        "ASP.NET (C#/VB.NET)",
-        "ASP.NET Core",
-        ".NET Core"
-      ]
-    },
-    {
-      "name": "Back-end",
-      "level": "intermediate",
-      "keywords": [
-        "Java",
+        "C#",
+        "VB.NET",
         "C/C++",
+        "Java",
         "PHP",
         "Pascal (Inno)"
       ]
     },
     {
-      "name": "Database",
-      "level": "advanced",
+      "name": "Frameworks / Platforms / Databases",
+      "level": "Master",
       "keywords": [
+        "React",
+        "React-Native",
+        "Angular",
+        "JQuery",
+        "NodeJS",
+        ".NET",
+        ".NET Core",
+        "ASP.NET",
         "SQL Server",
         "MySQL",
         "Postgres",
         "MongoDB",
         "ElasticSearch"
       ]
+    },
+    {
+      "name": "Database",
+      "level": "advanced",
+      "keywords": []
     }
   ],
   "languages": [
@@ -175,10 +179,18 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Tech",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Blockchain",
+        "High performance servers",
+        "New Languages"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Motorcycle Riding",
+        "Gaming"
       ]
     }
   ],

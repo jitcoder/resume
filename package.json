@@ -5,7 +5,8 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "del resume.pdf && hackmyresume build resume.json TO resume.pdf -t node_modules/jsonresume-theme-flat"
+    "clean": "rm resume.pdf && rm resume.pdf.html && rm resume.html",
+    "build": "hackmyresume build resume.json TO resume.html -t node_modules/jsonresume-theme-flat && wkhtmltopdf -s A7 resume.html resume.pdf && open resume.pdf"
   },
   "keywords": [],
   "author": "",
