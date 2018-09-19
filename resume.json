@@ -12,7 +12,7 @@
       "countryCode": "US",
       "region": "California"
     },
-    "summary": "Tech enthusiast, father, husband and avid biker",
+    "summary": "Tech enthusiast & mentor",
     "profiles": [
       {
         "network": "Github",
@@ -32,17 +32,20 @@
       "position": "Senior Technology Manager",
       "website": "http://fox.com",
       "startDate": "2016-09-13",
-      "summary": "Worked within the Digital Consumer Group on the API Team providing backend services for a variety of front-end clients",
+      "summary": "Worked within the backend engineering team and created site reliability engineering team",
       "highlights": [
-        "Gather requirements from Product team to produce technical solutions as well as implementation details for engineering",
-        "Mentor and onboarding for new API team members. (Tech Manager, Engineers), which resulted in a quick ramp up of API team technical and tribal knowledge",
-        "Educator to internal API team and external teams. Self organized a 10 week Python course for the content ops & network ops team to learn scripting to automate their team's tasks",
+        "Built and Lead a 6 person cross functional site reliability engineering team with components in operations, security, release management, QA automation and load testing",
+        "Gather requirements from stakeholders and architect technical solutions along with implementation details for various engineering teams",
+        "Mentor and onboard new engineering team members in order to achieve quick ramp up of engineering team technical and tribal knowledge",
+        "Educator to engineering team and external teams.",
+        "Self organized a 10 week Python course for content ops & network ops to help those teams automate their tasks",
         "Started Lunch & Learn sessions to help distribute siloed knowledge across teams",
-        "Identified a gap in internal tooling, commissioned and built DCG API Internal Tools Dashboard which contains tools such as Ticket Tracker to help Project Management team keep track of which Jira tickets have been deployed to particular API environments",
-        "Built a cluster of API Snapshot servers to offload traffic off of downgrading API server clusters to prevent cascading failures from occuring during record high traffic events",
-        "Worked closely with DFW team to architect solutions for web specific requirements (SEO, Promos etc) and actively prevented development from being blocked",
-        "Built FYI Image Previewer tool to help content ops QA images being ingested from FYI",
-        "Architected solutions with 3rd party vendor (Digital Smiths) to integrate their recommendations engine with DCG's Content System enabling content editors to create machine learning backed collections"
+        "Identified a gap in internal tooling and built internal tools dashboard to help other teams in their tasks",
+        "Built a cluster of API Snapshot servers to offload traffic off of degraded server clusters to prevent cascading failures from occuring during record high traffic events",
+        "Worked closely with web team to architect solutions for web specific requirements (SEO, Promos etc) and actively prevented development from being blocked",
+        "Architected solutions with 3rd party vendor to integrate their recommendations engine with Fox's Content System enabling content editors to create machine learning backed collections",
+        "Lead a backend engineering team working on scalable backend solutions built to handle 200k-1.2M requests per minute (Akamai, API Gateway, Docker, NodeJS, ElasticSearch, Mongo, Redis)",
+        "Presenter for SoCal React 2017 'Highly Scable React SPAs'"
       ]
     },
     {
@@ -82,17 +85,6 @@
       ]
     },
     {
-      "company": "Palomar College",
-      "position": "IT Support Assistant",
-      "startDate": "2007-01-01",
-      "endDate": "2008-01-01",
-      "highlights": [
-        "Part-time IT Support Assistant.",
-        "Assisted with synchronizing images across multiple labs on campus.",
-        "Basic IT support."
-      ]
-    },
-    {
       "company": "Hewlett-Packard Systems at Ebttikar Technology Co., Ltd",
       "position": "Junior Software Engineer",
       "startDate": "2005-09-01",
@@ -116,23 +108,26 @@
       "name": "Management",
       "level": "Master",
       "keywords": [
-        "Training",
-        "Mentoring",
-        "Improving moral in high stress situations"
+        "Agile/SCRUM",
+        "Leadership",
+        "Teacher",
+        "Mentor",
+        "Squad Model",
+        "Executive/Stakeholder communications"
       ]
     },
     {
       "name": "Languages",
       "level": "Master",
       "keywords": [
+        "Javascript",
+        "Typescript",
+        "VB.NET",
+        "C#",
+        "C/C++",
         "HTML",
         "CSS",
         "SASS",
-        "Javascript",
-        "Typescript",
-        "C#",
-        "VB.NET",
-        "C/C++",
         "Java",
         "PHP",
         "Pascal (Inno)"
@@ -142,11 +137,23 @@
       "name": "Frameworks / Platforms / Databases",
       "level": "Master",
       "keywords": [
+        "AWS",
+        "ECS",
+        "Docker",
+        "Terraform",
+        "Redis",
+        "Lerna",
+        "Splunk",
+        "Grafana",
         "React",
         "React-Native",
         "Angular",
         "JQuery",
         "NodeJS",
+        "Mocha",
+        "Jasmine",
+        "NUnit",
+        "Selenium",
         ".NET",
         ".NET Core",
         "ASP.NET",
@@ -156,11 +163,6 @@
         "MongoDB",
         "ElasticSearch"
       ]
-    },
-    {
-      "name": "Database",
-      "level": "advanced",
-      "keywords": []
     }
   ],
   "languages": [
@@ -175,33 +177,6 @@
     {
       "language": "Hindi",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Tech",
-      "keywords": [
-        "Blockchain",
-        "High performance servers",
-        "New Languages"
-      ]
-    },
-    {
-      "name": "Hobbies",
-      "keywords": [
-        "Motorcycle Riding",
-        "Gaming"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Benjamin Moscrop",
-      "reference": "Sameer is an incredibly gifted programmer and software engineer. I've seen him write code as fast as a typist. We worked on some entrepreneurial projects together and I was always blown away at his creative abilities. When encountered with a problem he simply begins flipping his pen around while pacing back and forth and within a few moments he's back at the desk implementing the solution that he worked out in his head. He has vast experience in training and teaching people to program."
-    },
-    {
-      "name": "Rossco Giordano",
-      "reference": "Sam is one of those rare people that you'll remember for the rest of your life. Never have I ever seen a person take an entire language or platform they've never even developed in, and within a week (sometimes just a few days), create a full-scale, professional, bug-free application with coding standards for [enter language here] so properly executed. The man himself is AN ENTIRE walking, talking, development team to himself. To say that Sam is something close to a genius, would be an understatement. But not only is he capable of creating full-scale, fully-functioning, professional level applications himself... as a team-mate, he will positively challenge you to become engaged, and to challenge yourself, as well. I haven't worked for/with Sam in years, but I always look back and think about that guy and how amazing he was: as a team mate, a software developer, a teacher, and a friend."
     }
   ]
 }
