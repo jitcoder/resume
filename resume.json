@@ -1,18 +1,17 @@
 {
   "basics": {
     "name": "Sameer Mirza",
-    "label": "Senior Technology Manager",
-    "picture": "",
-    "email": "sam@bytecodestudios.com",
+    "label": "VP of Engineering",
+    "email": "sameerbilal2012@gmail.com",
     "phone": "(805) 295-0263",
     "location": {
-      "address": "15423 Benfield Ave",
-      "postalCode": "CA 90650",
-      "city": "Norwalk",
+      "address": "34875 Pourroy Rd",
+      "postalCode": "CA 92596",
+      "city": "Winchester",
       "countryCode": "US",
       "region": "California"
     },
-    "summary": "Tech enthusiast & mentor",
+    "summary": "Tech Enthusiast & Mentor. Experienced with scaling & optimizing resources",
     "profiles": [
       {
         "network": "Github",
@@ -21,17 +20,56 @@
       },
       {
         "network": "LinkedIn",
-        "username": "sameer-mirza",
+        "username": "sameer-mirza-261058a9",
         "url": "https://www.linkedin.com/in/sameer-mirza-261058a9/"
       }
     ]
   },
   "work": [
     {
+      "company": "Maestro",
+      "position": "VP of Engineering",
+      "website": "https://maestro.io/",
+      "startDate": "2020-01-01",
+      "summary": "Created processes and infrastructure to allow organization to scale rapidly and grow out of start up phase into an enterprise",
+      "highlights": [
+        "Drastically improved engineering departments culture leading to a more collaborative environment vs a toxic one",
+        "Implemented engineering organizational structure & processes to enable to organization to grow rapidly",
+        "Scaled the team from 5 engineers to 40 engineers within 4 months",
+        "Created DevOps, SRE & QA departments",
+        "Mentored & Trained engineers and developed career growth plans for them",
+        "Introduced incident management policies. (On-call, RCAs, incident response handling)",
+        "Implemented several 3rd party API integration strategies that significantly reduced bandwidth costs",
+        "Introduced & implemented AGILE Scrum enabling the org to get insight into the engineering team and improve delivery times",
+        "Collaborated with leadership team to implement pod structure",
+        "Created ADR process & ADR Committee to review, discuss & approve implementation details before development starts on it",
+        "Drastically reduced tech debt and outages via policies, process and best practices",
+        "Worked with DevOps, SRE & QA departments to create a complex CI/CD pipeline that also runs load tests per release, locking in performance gains",
+        "Increased code coverage from <20% to 80%"
+      ]
+    },
+    {
+      "company": "Maestro",
+      "position": "Director of Engineering",
+      "website": "https://maestro.io/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Drastically improved platform scalability, introduced 3-Tier architecture, MapReduce, Domain Driven Design and standardized implementations",
+      "highlights": [
+        "Trained team on Domain Driven Design and standardized all objects in order to bring data integrity to the platform",
+        "Refactored Backend APIs to be more performant, maintainable and easily documented for 3rd party use",
+        "Designed 'Stream Provider API Contract' architecture to enable the company to integrate with stream providers (Mux, Wowza, etc..) without eating into dev teams bandwidth. This allowed the company to easily partner with 3rd parties to increase sales",
+        "Created a new configuration driven OAuth implementation to allow customers to easily integrate their existing OAuth authentication providers. Previously the dev team was doing manual integrations per OAuth provider",
+        "Introduced 3-Tier architecture to help with code maintenance, scalability, incident response and debugging",
+        "Refactored backend implementation & infrastructure allowing the platform to scale from 100k concurrents to 2m"
+      ]
+    },
+    {
       "company": "Fox Networks Group",
       "position": "Senior Technology Manager",
-      "website": "http://fox.com",
+      "website": "https://fox.com/",
       "startDate": "2016-09-13",
+      "endDate": "2018-12-27",
       "summary": "Worked within the backend engineering team and created site reliability engineering team",
       "highlights": [
         "Built and Lead a 6 person cross functional site reliability engineering team with components in operations, security, release management, QA automation and load testing",
@@ -41,17 +79,17 @@
         "Self organized a 10 week Python course for content ops & network ops to help those teams automate their tasks",
         "Started Lunch & Learn sessions to help distribute siloed knowledge across teams",
         "Identified a gap in internal tooling and built internal tools dashboard to help other teams in their tasks",
-        "Built a cluster of API Snapshot servers to offload traffic off of degraded server clusters to prevent cascading failures from occuring during record high traffic events",
+        "Built a cluster of API Snapshot servers to offload traffic off of degraded server clusters to prevent cascading failures from occurring during record high traffic events",
         "Worked closely with web team to architect solutions for web specific requirements (SEO, Promos etc) and actively prevented development from being blocked",
         "Architected solutions with 3rd party vendor to integrate their recommendations engine with Fox's Content System enabling content editors to create machine learning backed collections",
         "Lead a backend engineering team working on scalable backend solutions built to handle 200k-1.2M requests per minute (Akamai, API Gateway, Docker, NodeJS, ElasticSearch, Mongo, Redis)",
-        "Presenter for SoCal React 2017 'Highly Scable React SPAs'"
+        "Presenter for SoCal React 2017 'Highly Scalable React SPAs'"
       ]
     },
     {
       "company": "Strategic Healthcare Programs (SHP)",
       "position": "Software Engineer",
-      "website": "https://shpdata.com",
+      "website": "https://shpdata.com/",
       "startDate": "2014-12-01",
       "endDate": "2016-08-01",
       "highlights": [
@@ -81,11 +119,11 @@
       "endDate": "2013-12-01",
       "highlights": [
         "Architected, Developed and maintained Point of Sale System with centralized inventory tracking.",
-        "Managed team of developers."
+        "Built & Managed team of developers."
       ]
     },
     {
-      "company": "Hewlett-Packard Systems at Ebttikar Technology Co., Ltd",
+      "company": "Hewlett-Packard",
       "position": "Junior Software Engineer",
       "startDate": "2005-09-01",
       "endDate": "2006-09-01",
