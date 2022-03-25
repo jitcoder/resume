@@ -5,13 +5,18 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rm resume.pdf && rm resume.pdf.html && rm resume.html",
-    "build": "hackmyresume build resume.json TO resume.html -t node_modules/jsonresume-theme-flat && wkhtmltopdf -s A7 resume.html resume.pdf && open resume.pdf"
+    "clean": "rm -f resume.pdf && rm -f resume.pdf.html && rm -f resume.html",
+    "build": "resume export resume.html -t ./node_modules/jsonresume-theme-elegant",
+    "build-pdf": "resume export resume.pdf -t jsonresume-theme-elegant && open resume.pdf",
+    "build-alt": "resume export resume.pdf -t caffeine"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-flat": "^0.3.7"
+    "jsonresume-theme-caffeine": "^1.2.3",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-smart": "^1.0.2"
   }
 }

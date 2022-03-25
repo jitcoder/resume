@@ -1,9 +1,11 @@
 {
+  "meta": { "theme": "caffeine" },
   "basics": {
     "name": "Sameer Mirza",
     "label": "VP of Engineering",
     "email": "sameerbilal2012@gmail.com",
-    "phone": "(805) 295-0263",
+    "phone": "(805) 617-0769",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQGMdxJeGeScoQ/profile-displayphoto-shrink_400_400/0/1648111641229?e=2147483647&v=beta&t=FF6KH-Y4EZ9Ie4Q_Q5kKcybEziWfSy2_kUdxchcqjXc",
     "location": {
       "address": "34875 Pourroy Rd",
       "postalCode": "CA 92596",
@@ -11,7 +13,7 @@
       "countryCode": "US",
       "region": "California"
     },
-    "summary": "Tech Enthusiast & Mentor. Experienced with scaling & optimizing resources",
+    "summary": "17 years experienced tech enthusiast & mentor that specializes in building engineering teams & enterprise grade scalable software",
     "profiles": [
       {
         "network": "Github",
@@ -28,9 +30,10 @@
   "work": [
     {
       "company": "Maestro",
-      "position": "VP of Engineering",
+      "position": "VP of Engineering - Maestro",
       "website": "https://maestro.io/",
       "startDate": "2020-01-01",
+      "endDate":"2021-11-01",
       "summary": "Created processes and infrastructure to allow organization to scale rapidly and grow out of start up phase into an enterprise",
       "highlights": [
         "Drastically improved engineering departments culture leading to a more collaborative environment vs a toxic one",
@@ -38,19 +41,21 @@
         "Scaled the team from 5 engineers to 40 engineers within 4 months",
         "Created DevOps, SRE & QA departments",
         "Mentored & Trained engineers and developed career growth plans for them",
-        "Introduced incident management policies. (On-call, RCAs, incident response handling)",
+        "Introduced incident management policies. (On-call rotation, RCAs, incident response handling)",
         "Implemented several 3rd party API integration strategies that significantly reduced bandwidth costs",
         "Introduced & implemented AGILE Scrum enabling the org to get insight into the engineering team and improve delivery times",
         "Collaborated with leadership team to implement pod structure",
         "Created ADR process & ADR Committee to review, discuss & approve implementation details before development starts on it",
         "Drastically reduced tech debt and outages via policies, process and best practices",
-        "Worked with DevOps, SRE & QA departments to create a complex CI/CD pipeline that also runs load tests per release, locking in performance gains",
+        "Standardized release process",
+        "Worked with DevOps, SRE & QA departments to create a complex CI/CD pipeline that also runs load tests per release, locking in performance gains with every release",
+        "Worked closely with DevOps & Engineering leads to enable the organization to do 'live deployments' rather than depend on release windows",
         "Increased code coverage from <20% to 80%"
       ]
     },
     {
       "company": "Maestro",
-      "position": "Director of Engineering",
+      "position": "Director of Engineering - Maestro",
       "website": "https://maestro.io/",
       "startDate": "2019-01-01",
       "endDate": "2019-12-31",
@@ -66,7 +71,7 @@
     },
     {
       "company": "Fox Networks Group",
-      "position": "Senior Technology Manager",
+      "position": "Senior Technology Manager - Fox Networks Group",
       "website": "https://fox.com/",
       "startDate": "2016-09-13",
       "endDate": "2018-12-27",
@@ -88,7 +93,7 @@
     },
     {
       "company": "Strategic Healthcare Programs (SHP)",
-      "position": "Software Engineer",
+      "position": "Software Engineer - Strategic Healthcare Programs",
       "website": "https://shpdata.com/",
       "startDate": "2014-12-01",
       "endDate": "2016-08-01",
@@ -101,7 +106,7 @@
     },
     {
       "company": "Bytecode Studios",
-      "position": "Software Consultant",
+      "position": "Software Consultant - Bytecode Studios",
       "website": "https://bytecodestudios.com",
       "startDate": "2013-12-01",
       "endDate": "2014-12-01",
@@ -114,7 +119,7 @@
     },
     {
       "company": "US Fragrances Inc.",
-      "position": "Senior Software Engineer",
+      "position": "Senior Software Engineer - US Fragrances Inc.",
       "startDate": "2006-11-01",
       "endDate": "2013-12-01",
       "highlights": [
@@ -124,7 +129,7 @@
     },
     {
       "company": "Hewlett-Packard",
-      "position": "Junior Software Engineer",
+      "position": "Junior Software Engineer - HP",
       "startDate": "2005-09-01",
       "endDate": "2006-09-01",
       "highlights": [
@@ -144,22 +149,20 @@
   "skills": [
     {
       "name": "Management",
-      "level": "Master",
       "keywords": [
         "Agile/SCRUM",
         "Leadership",
         "Teacher",
         "Mentor",
-        "Squad Model",
         "Executive/Stakeholder communications"
       ]
     },
     {
       "name": "Languages",
-      "level": "Master",
       "keywords": [
         "Javascript",
         "Typescript",
+        "Go",
         "VB.NET",
         "C#",
         "C/C++",
@@ -173,8 +176,8 @@
     },
     {
       "name": "Frameworks / Platforms / Databases",
-      "level": "Master",
       "keywords": [
+        "GCP",
         "AWS",
         "ECS",
         "Docker",
