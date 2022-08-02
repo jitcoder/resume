@@ -30,8 +30,8 @@
   "work": [
     {
       "company": "CornerStone Digital",
-      "position": "Technical Founder / Engineering Lead",
-      "startDate": "2021-04-01",
+      "position": "Technical Co-Founder / Engineering Lead",
+      "startDate": "2022-04-01",
       "summary": "Built a highlighly efficient digital content distribution system",
       "highlights": [
         "Built a video publishing CMS with a transcoding pipeline that targets low-power devices",
@@ -42,7 +42,7 @@
     },
     {
       "company": "Loadsy (Paxico Technologies)",
-      "position": "Technical Founder / Engineering Lead",
+      "position": "Technical Co-Founder / Engineering Lead",
       "startDate": "2021-01-01",
       "endDate": "2022-04-01",
       "summary": "Built a load testing SaaS platform that allows you to write load tests in javascript",

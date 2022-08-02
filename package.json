@@ -9,7 +9,8 @@
     "build-old": "resume export resume.html -t ./node_modules/jsonresume-theme-elegant",
     "build-pdf": "resume export resume.pdf -t jsonresume-theme-elegant && open resume.pdf",
     "build": "resume export resume.pdf -t caffeine",
-    "build-simple": "resume export resume-simple.pdf -t onepage"
+    "build-simple": "resume export resume-simple.pdf -t onepage",
+    "build-caffine": "resume export resume-caffeine.pdf -t caffeine && open resume-caffeine.pdf"
   },
   "keywords": [],
   "author": "",
