@@ -29,6 +29,33 @@
   },
   "work": [
     {
+      "company": "CornerStone Digital",
+      "position": "Technical Founder / Engineering Lead",
+      "startDate": "2021-04-01",
+      "summary": "Built a highlighly efficient digital content distribution system",
+      "highlights": [
+        "Built a video publishing CMS with a transcoding pipeline that targets low-power devices",
+        "Built an ultra-lightweight front-end that minimizes network traffic overhead using spritesheets and vanilla js",
+        "The CMS generates multi-resolution spritesheets of video thumbnails and preview images, the front-end then picks and loads one of the spritesheets based off of device resolution",
+        "The goal of the above is to enable content distributors to target rural markets with 3G internet speeds and with on average low powered devices"
+      ]
+    },
+    {
+      "company": "Loadsy (Paxico Technologies)",
+      "position": "Technical Founder / Engineering Lead",
+      "startDate": "2021-01-01",
+      "endDate": "2022-04-01",
+      "summary": "Built a load testing SaaS platform that allows you to write load tests in javascript",
+      "highlights": [
+        "Lead a small team of engineers to build an ultra-high performance load testing engine",
+        "Platform consisted of 4 key components: ",
+        "1. Custom scaling system that allows the platform to launch millions of concurrent tests within a very short amount of time",
+        "2. IO layer that can perform a high number of HTTP requests without consuming too much CPU",
+        "3. Embedded JS Engine (no event loop) that uses the IO layer",
+        "4. Statistics pipeline that can ingest a large number of request data and aggregate it quickly to provide real time updates"
+      ]
+    },
+    {
       "company": "Maestro",
       "position": "VP of Engineering - Maestro",
       "website": "https://maestro.io/",

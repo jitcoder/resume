@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -f resume.pdf && rm -f resume.pdf.html && rm -f resume.html",
-    "build": "resume export resume.html -t ./node_modules/jsonresume-theme-elegant",
+    "build-old": "resume export resume.html -t ./node_modules/jsonresume-theme-elegant",
     "build-pdf": "resume export resume.pdf -t jsonresume-theme-elegant && open resume.pdf",
-    "build-alt": "resume export resume.pdf -t caffeine"
+    "build": "resume export resume.pdf -t caffeine",
+    "build-simple": "resume export resume-simple.pdf -t onepage"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,8 @@
     "jsonresume-theme-caffeine": "^1.2.3",
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-flat": "^0.3.7",
-    "jsonresume-theme-smart": "^1.0.2"
+    "jsonresume-theme-onepage": "^0.0.3",
+    "jsonresume-theme-smart": "^1.0.2",
+    "resume-cli": "^3.0.7"
   }
 }
